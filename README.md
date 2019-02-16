@@ -1,1 +1,3 @@
 # Segurity-Usb
+
+Transfer files to a USB flash drive How can I copy or transfer files to my USB flash drive or memory card? There are several methods to transfer files to or from a removable disk. - Copy and Paste - Drag and Drop - Send to - Copy and paste using keyboard shortcuts Usb-Segurity is an application ...
